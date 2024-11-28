@@ -1,0 +1,16 @@
+allennlp
+numpy
+overrides
+pandas
+pytorch-lightning==1.6.0
+scikit-learn
+tabulate
+tensorboard
+tensorboard-plugin-wit
+tensorboardX
+tokenizers
+torch
+torchmetrics
+torchvision
+tqdm
+transformers
